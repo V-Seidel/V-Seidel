@@ -25,7 +25,10 @@
 <img align="left" alt="Python" height="30px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Pytorch" height="30px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img align="left" alt="C" height="30px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img align="left" alt="Arduino" height="30px" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<kbd>
+    <img align="left" alt="Arduino" height="30px" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+</kbd>
+
 
 <br />
 <br />
