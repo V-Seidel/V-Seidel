@@ -5,7 +5,7 @@
 
 - I’m currently learning about deep learning applied to neuroscience
 - I’m a bioinformatics enthusiast
-- 2021 Goals: survive the year
+- 2022 Goals: survive the year
 
 
 ### Connect with me:
