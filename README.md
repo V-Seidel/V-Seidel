@@ -1,7 +1,7 @@
 ### Hi there, I'm Vinícius - aka Seidel 👋
 
 
-## Just a normal freshman computer engineering student learning some codes
+## Just a normal computer engineering student learning some codes
 
 - I’m currently learning about deep learning applied to neuroscience
 - I’m a bioinformatics enthusiast
